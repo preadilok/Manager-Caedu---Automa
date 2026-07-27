@@ -3,21 +3,21 @@
     "nome": "Cadastro de Usuário",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Operacional",
-    "duracao": 95,
+    "duracao": 92,
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "MOP002": {
     "nome": "Aprovação de Usuário Cadastrado",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Operacional",
-    "duracao": 95,
+    "duracao": 92,
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "MOP003": {
     "nome": "Reprovação de Usuário Cadastrado",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Operacional",
-    "duracao": 95,
+    "duracao": 88,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

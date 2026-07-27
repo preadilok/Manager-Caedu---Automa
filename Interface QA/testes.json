@@ -17,7 +17,7 @@
     "nome": "Reprovação de Usuário Cadastrado",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Operacional",
-    "duracao": 110,
+    "duracao": 92,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

@@ -19,5 +19,12 @@
     "modulo": "Manager Operacional",
     "duracao": 88,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP004": {
+    "nome": "Cadastro de Usuário temporário",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Operacional",
+    "duracao": 88,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

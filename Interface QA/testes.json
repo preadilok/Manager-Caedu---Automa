@@ -52,7 +52,7 @@
     "nome": "Sincronização de cadastros de lojas ",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Operacional",
-    "duracao": 110,
+    "duracao": 80,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

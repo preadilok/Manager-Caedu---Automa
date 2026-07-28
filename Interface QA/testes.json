@@ -59,7 +59,7 @@
     "nome": "Registro de versão PDV arquivo ZTA",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Operacional",
-    "duracao": 80,
+    "duracao": 110,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

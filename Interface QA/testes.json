@@ -33,5 +33,12 @@
     "modulo": "Manager Operacional",
     "duracao": 95,
     "ambiente": "QA / HOMOLOGAÇÃO"
+ },
+  "MOP006": {
+    "nome": "Reprovação de Usuário Temporário Cadastrado",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Operacional",
+    "duracao": 95,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

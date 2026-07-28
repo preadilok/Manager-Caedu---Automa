@@ -47,5 +47,12 @@
     "modulo": "Manager Operacional",
     "duracao": 110,
     "ambiente": "QA / HOMOLOGAÇÃO"
+ },
+  "MOP008": {
+    "nome": "Sincronização de cadastros de lojas ",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Operacional",
+    "duracao": 110,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

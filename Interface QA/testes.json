@@ -61,5 +61,12 @@
     "modulo": "Manager Operacional",
     "duracao": 110,
     "ambiente": "QA / HOMOLOGAÇÃO"
+   },
+  "MOP010": {
+    "nome": "Associação de versão registrada aos PDVs",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Operacional",
+    "duracao": 110,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

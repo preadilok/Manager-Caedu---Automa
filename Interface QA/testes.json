@@ -103,5 +103,12 @@
     "modulo": "Validação Fiscal",
     "duracao": 90,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP017": {
+    "nome": "Parâmetros Gerais",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Opracional",
+    "duracao": 90,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

@@ -255,7 +255,7 @@
     "nome": "Lançar movimento tesouraria  ajuste de caixas ",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Tesouraria",
-    "duracao": 54,
+    "duracao": 75,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

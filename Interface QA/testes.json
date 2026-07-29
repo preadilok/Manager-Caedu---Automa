@@ -222,5 +222,12 @@
     "modulo": "Manager Opracional",
     "duracao": 77,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP030": {
+    "nome": "Cadastrar_alterar plano de contas gerenciais",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Opracional",
+    "duracao": 77,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

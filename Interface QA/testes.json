@@ -129,7 +129,7 @@
     "nome": "Perguntas de Autorização de Compras",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 80,
+    "duracao": 62,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

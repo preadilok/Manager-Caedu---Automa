@@ -250,5 +250,12 @@
     "modulo": "Manager Opracional",
     "duracao": 54,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MTE001": {
+    "nome": "Lançar movimento tesouraria  ajuste de caixas ",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Tesouraria",
+    "duracao": 54,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

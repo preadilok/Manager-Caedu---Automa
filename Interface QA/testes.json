@@ -227,7 +227,14 @@
     "nome": "Cadastrar_alterar plano de contas gerenciais",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 77,
+    "duracao": 83,
+    "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP031": {
+    "nome": "Cadastrar_alterar nivel hierarquico de aprovação",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Opracional",
+    "duracao": 83,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

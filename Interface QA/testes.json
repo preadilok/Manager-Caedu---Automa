@@ -192,7 +192,7 @@
     "nome": "Cadastrar perfil para funções",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 60,
+    "duracao": 64,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

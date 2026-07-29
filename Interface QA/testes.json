@@ -185,7 +185,7 @@
     "nome": "Cadastrar_alterar Coeficientes",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 115,
+    "duracao": 60,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

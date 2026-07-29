@@ -131,5 +131,12 @@
     "modulo": "Manager Opracional",
     "duracao": 62,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS002": {
+    "nome": "CFOP",
+    "sistema": "ZEUS Manager",
+    "modulo": "Validação Fiscal",
+    "duracao": 90,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

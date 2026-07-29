@@ -178,6 +178,13 @@
     "nome": "Cadastrar_alterar Finalizadora",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
+    "duracao": 162,
+    "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP024": {
+    "nome": "Cadastrar_alterar Coeficientes",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Opracional",
     "duracao": 115,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }

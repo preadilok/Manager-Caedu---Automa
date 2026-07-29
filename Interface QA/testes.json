@@ -138,5 +138,12 @@
     "modulo": "Validação Fiscal",
     "duracao": 122,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS003": {
+    "nome": "Tributação",
+    "sistema": "ZEUS Manager",
+    "modulo": "Validação Fiscal",
+    "duracao": 122,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

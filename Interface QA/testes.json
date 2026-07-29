@@ -264,5 +264,12 @@
     "modulo": "Promoções",
     "duracao": 157,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "PRO002": {
+    "nome": "Promoção Brinde",
+    "sistema": "ZEUS Manager",
+    "modulo": "Promoções",
+    "duracao": 157,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

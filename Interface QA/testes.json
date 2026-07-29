@@ -94,7 +94,7 @@
     "nome": "Realizar o cadastro_alteração de texto",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Operacional",
-    "duracao": 125,
+    "duracao": 90,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

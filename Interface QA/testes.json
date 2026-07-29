@@ -164,7 +164,7 @@
     "nome": "Recebimento e pagamentos",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 62,
+    "duracao": 132,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

@@ -199,7 +199,7 @@
     "nome": "Cadastrar_alterar perfis de usuários",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 64,
+    "duracao": 86,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

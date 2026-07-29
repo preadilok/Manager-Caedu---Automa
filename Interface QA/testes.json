@@ -68,5 +68,12 @@
     "modulo": "Manager Operacional",
     "duracao": 82,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP011": {
+    "nome": "Cadastro de PDVs",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Operacional",
+    "duracao": 82,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

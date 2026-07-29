@@ -248,7 +248,7 @@
     "nome": "Cadastrar_alterar limite de descontos",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 90,
+    "duracao": 54,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

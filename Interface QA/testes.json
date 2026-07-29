@@ -152,12 +152,19 @@
     "modulo": "Validação Fiscal",
     "duracao": 184,
     "ambiente": "QA / HOMOLOGAÇÃO"
-   },
+  },
   "FIS006": {
     "nome": "Exceção de Impostos ICMS_PIS_COFINS",
     "sistema": "ZEUS Manager",
     "modulo": "Validação Fiscal",
     "duracao": 190,
+    "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP021": {
+    "nome": "Recebimento e pagamentos",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Opracional",
+    "duracao": 62,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

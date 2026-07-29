@@ -115,7 +115,7 @@
     "nome": "Cadastrar_alterar motivos de troca_reembolso_RI",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 52,
+    "duracao": 80,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

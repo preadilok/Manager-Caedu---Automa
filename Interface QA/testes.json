@@ -259,7 +259,7 @@
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "PRO001": {
-    "nome": "Cadastrar_Alterar Promoção combo",
+    "nome": "Promoção combo",
     "sistema": "ZEUS Manager",
     "modulo": "Promoções",
     "duracao": 157,

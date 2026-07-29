@@ -97,7 +97,7 @@
     "duracao": 90,
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
-  "FIS001 ": {
+  "FIS001": {
     "nome": "Ajustar o número_série de nota fiscal",
     "sistema": "ZEUS Manager",
     "modulo": "Validação Fiscal",

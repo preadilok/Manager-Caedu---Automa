@@ -89,5 +89,12 @@
     "modulo": "Manager Operacional",
     "duracao": 125,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP016": {
+    "nome": "Realizar o cadastro_alteração de texto",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Operacional",
+    "duracao": 125,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

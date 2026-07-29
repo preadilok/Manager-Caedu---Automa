@@ -124,5 +124,12 @@
     "modulo": "Manager Opracional",
     "duracao": 80,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP020": {
+    "nome": "Perguntas de Autorização de Compras",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Opracional",
+    "duracao": 80,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

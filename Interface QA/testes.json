@@ -206,7 +206,7 @@
     "nome": "Mercadoria consultar cadastro",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 86,
+    "duracao": 87,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

@@ -136,7 +136,7 @@
     "nome": "CFOP",
     "sistema": "ZEUS Manager",
     "modulo": "Validação Fiscal",
-    "duracao": 90,
+    "duracao": 122,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

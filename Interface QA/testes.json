@@ -87,7 +87,7 @@
     "nome": "Realizar o cadastro_alteração de clientes",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Operacional",
-    "duracao": 63,
+    "duracao": 125,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

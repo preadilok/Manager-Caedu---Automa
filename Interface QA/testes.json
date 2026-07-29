@@ -173,5 +173,12 @@
     "modulo": "Manager Opracional",
     "duracao": 115,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP023": {
+    "nome": "Cadastrar_alterar Finalizadora",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Opracional",
+    "duracao": 115,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

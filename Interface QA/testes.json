@@ -150,7 +150,7 @@
     "nome": "Regra de Impostos ICMS_PIS_COFINS",
     "sistema": "ZEUS Manager",
     "modulo": "Validação Fiscal",
-    "duracao": 60,
+    "duracao": 184,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

@@ -278,5 +278,12 @@
     "modulo": "Promoções",
     "duracao": 110,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "PRO004": {
+    "nome": "Promoção por Finalizadora",
+    "sistema": "ZEUS Manager",
+    "modulo": "Promoções",
+    "duracao": 110,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

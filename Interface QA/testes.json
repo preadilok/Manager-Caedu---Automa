@@ -257,5 +257,12 @@
     "modulo": "Manager Tesouraria",
     "duracao": 75,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "PRO001": {
+    "nome": "Cadastrar_Alterar Promoção combo",
+    "sistema": "ZEUS Manager",
+    "modulo": "Promoções",
+    "duracao": 75,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

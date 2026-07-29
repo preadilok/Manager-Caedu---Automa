@@ -241,7 +241,7 @@
     "nome": "Cadastrar_alterar alçadas de aprovação de despesas",
     "sistema": "ZEUS Manager",
     "modulo": "Manager Opracional",
-    "duracao": 77,
+    "duracao": 90,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

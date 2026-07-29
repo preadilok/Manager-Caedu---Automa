@@ -292,5 +292,12 @@
     "modulo": "Promoções",
     "duracao": 97,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "PRO008": {
+    "nome": "Voucher promocional na compra",
+    "sistema": "ZEUS Manager",
+    "modulo": "Promoções",
+    "duracao": 97,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

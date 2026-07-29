@@ -143,7 +143,7 @@
     "nome": "Tributação",
     "sistema": "ZEUS Manager",
     "modulo": "Validação Fiscal",
-    "duracao": 122,
+    "duracao": 60,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

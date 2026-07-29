@@ -297,7 +297,7 @@
     "nome": "Voucher promocional na compra",
     "sistema": "ZEUS Manager",
     "modulo": "Promoções",
-    "duracao": 97,
+    "duracao": 90,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

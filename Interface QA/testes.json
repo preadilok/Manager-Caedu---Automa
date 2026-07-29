@@ -271,5 +271,12 @@
     "modulo": "Promoções",
     "duracao": 112,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "PRO003": {
+    "nome": "Promoção desconto",
+    "sistema": "ZEUS Manager",
+    "modulo": "Promoções",
+    "duracao": 112,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

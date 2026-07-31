@@ -320,5 +320,12 @@
     "modulo": "PDV Zanthus",
     "duracao": 45,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS018": {
+    "nome": "Venda cliente não identificado - Com desconto - SP",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 45,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

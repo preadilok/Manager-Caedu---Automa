@@ -304,7 +304,7 @@
     "nome": "Login PDV utilizando nome",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
-    "duracao": 90,
+    "duracao": 70,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

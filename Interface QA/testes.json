@@ -348,5 +348,12 @@
     "modulo": "PDV Zanthus",
     "duracao": 60,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS022": {
+    "nome": "Venda cliente fora do estado - Com desconto - SP",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 90,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

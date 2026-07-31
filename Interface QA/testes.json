@@ -353,7 +353,7 @@
     "nome": "Venda cliente fora do estado - Com desconto - SP",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
-    "duracao": 90,
+    "duracao": 92,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

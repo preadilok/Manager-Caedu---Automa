@@ -306,5 +306,12 @@
     "modulo": "PDV Zanthus",
     "duracao": 70,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "PDV002": {
+    "nome": "Login PDV utilizando matricula",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 70,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

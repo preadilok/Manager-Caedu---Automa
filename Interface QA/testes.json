@@ -325,7 +325,14 @@
     "nome": "Venda cliente não identificado - Com desconto - SP",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
-    "duracao": 45,
+    "duracao": 73,
+    "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS019": {
+    "nome": "Venda cliente dentro do estado - Sem desconto - SP",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 73,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

@@ -355,5 +355,12 @@
     "modulo": "PDV Zanthus",
     "duracao": 92,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "MOP037": {
+    "nome": "Atualizar licença de Lojas Manager/PDVS",
+    "sistema": "ZEUS Manager",
+    "modulo": "Manager Opracional",
+    "duracao": 54,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

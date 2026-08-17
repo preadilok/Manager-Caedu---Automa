@@ -367,7 +367,7 @@
     "nome": "Troca cliente dentro do estado - Sem desconto - SP",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
-    "duracao": 100,
+    "duracao": 103,
     "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

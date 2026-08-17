@@ -362,5 +362,12 @@
     "modulo": "Manager Opracional",
     "duracao": 54,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS023": {
+    "nome": "Troca cliente dentro do estado - Sem desconto - SP",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 90,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

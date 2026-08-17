@@ -315,42 +315,42 @@
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "FIS017": {
-    "nome": "Venda cliente não identificado - Sem desconto - SP",
+    "nome": "Venda cliente não identificado - Sem desconto - RS",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
     "duracao": 45,
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "FIS018": {
-    "nome": "Venda cliente não identificado - Com desconto - SP",
+    "nome": "Venda cliente não identificado - Com desconto - RS",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
     "duracao": 73,
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "FIS019": {
-    "nome": "Venda cliente dentro do estado - Sem desconto - SP",
+    "nome": "Venda cliente dentro do estado - Sem desconto - RS",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
     "duracao": 61,
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "FIS020": {
-    "nome": "Venda cliente dentro do estado - Com desconto - SP",
+    "nome": "Venda cliente dentro do estado - Com desconto - RS",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
     "duracao": 93,
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "FIS021": {
-    "nome": "Venda cliente fora do estado - Sem desconto - SP",
+    "nome": "Venda cliente fora do estado - Sem desconto - RS",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
     "duracao": 60,
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "FIS022": {
-    "nome": "Venda cliente fora do estado - Com desconto - SP",
+    "nome": "Venda cliente fora do estado - Com desconto - RS",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
     "duracao": 92,
@@ -364,7 +364,7 @@
     "ambiente": "QA / HOMOLOGAÇÃO"
   },
   "FIS023": {
-    "nome": "Troca cliente dentro do estado - Sem desconto - SP",
+    "nome": "Troca cliente dentro do estado - Sem desconto - RS",
     "sistema": "ZEUS Manager",
     "modulo": "PDV Zanthus",
     "duracao": 103,

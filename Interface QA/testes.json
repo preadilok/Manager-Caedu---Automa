@@ -369,5 +369,12 @@
     "modulo": "PDV Zanthus",
     "duracao": 103,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS024": {
+    "nome": "Troca cliente dentro do estado - Com desconto - RS",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 110,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

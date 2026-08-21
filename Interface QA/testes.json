@@ -404,5 +404,19 @@
     "modulo": "PDV Zanthus",
     "duracao": 140,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS029": {
+    "nome": "Reembolso cliente fora do estado - Sem desconto - RS",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 140,
+    "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS030": {
+    "nome": "Reembolso cliente fora do estado - Com desconto - RS",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 140,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }

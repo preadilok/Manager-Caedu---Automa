@@ -432,5 +432,19 @@
     "modulo": "PDV Zanthus",
     "duracao": 140,
     "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS033": {
+    "nome": "RI cliente fora do estado - Sem desconto",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 130,
+    "ambiente": "QA / HOMOLOGAÇÃO"
+  },
+  "FIS034": {
+    "nome": "RI cliente fora do estado - Com desconto",
+    "sistema": "ZEUS Manager",
+    "modulo": "PDV Zanthus",
+    "duracao": 140,
+    "ambiente": "QA / HOMOLOGAÇÃO"
   }
 }
